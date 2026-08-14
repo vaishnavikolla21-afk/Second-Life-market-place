@@ -1,0 +1,6 @@
+{
+  "name": "Second-Life ♻️",
+  "description": "Eco-Friendly AI Platform & Circular Economy Marketplace for identifying materials, generating 5 upcycling ideas with step-by-step guides, and community reuse listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

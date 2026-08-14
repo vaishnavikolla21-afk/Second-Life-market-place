@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #FAF9F6;
+    color: #121212;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Newsreader', 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom scrollbar and utility touches */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
